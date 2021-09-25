@@ -11,6 +11,8 @@ You just hold select and move your hands closer/further away to scale everything
 
 This might mean the "room" moves away from you...
 
+Oh, and the monkeys move around using simplex noise
+
 You can hold use your left select to move all the monkeys at the same time.
 
 I wanted to explore rotation - but that involved quaterions and I didn't have time yet.
